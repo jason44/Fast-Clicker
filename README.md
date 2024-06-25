@@ -1,5 +1,5 @@
 # Fast-Clicker
-click very fast in linux!
+click very fast on linux!
 
 ##### Build
 ```
@@ -7,5 +7,5 @@ click very fast in linux!
 ```
 
 ##### Note
-Remember to run with `sudo`
+`FastClicker` needs to be run with `sudo`
 
